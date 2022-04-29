@@ -29,6 +29,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 12:30h [Sánchez González, Hugo]()
 * 12:40h [Vargas García, Juan Antonio]()
 
+<hr>
+
 ### :calendar: Viernes 27 de mayo de 2022
 
 <img height="36px" src="accenture.svg">
@@ -65,7 +67,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 11:45h [Parra Toval, Alberto]()
+* 10:30h [Parra Toval, Alberto]()
 
 <hr>
 
@@ -73,20 +75,21 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:35h [Antúnez Pérez, David]()
-* 10:45h [Cueto Jiménez, Alejandro]()
-* 10:45h [Benítez Ruiz, José Antonio]()
-* 10:45h [Moreno González, Alberto]()
+* 10:40h [Antúnez Pérez, David]()
+* 10:50h [Cueto Jiménez, Alejandro]()
+* 11:00h [Benítez Ruiz, José Antonio]()
+* 11:10h [Moreno González, Alberto]()
 
 <hr>
 
-
 <img height="34px" src="nttdata.png">
 
-* 11:55h [Aguilera García, Alejandro]()
+##### 1ºDAW
+
+* 11:45h [Aguilera García, Alejandro]()
 * 11:55h [González Calderón, Narciso]()
-* 11:55h [Hernández Mangas, Ernesto]()
-* 11:55h [Urbano Ruz, Alfonso]()
+* 12:05h [Hernández Mangas, Ernesto]()
+* 12:15h [Urbano Ruz, Alfonso]()
 
 <hr>
 
