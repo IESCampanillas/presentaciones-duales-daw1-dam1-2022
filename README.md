@@ -54,7 +54,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="42px" src="opplus.png">
+<img height="46px" src="opplus.png">
 
 ##### 1ºDAW
 
@@ -82,7 +82,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="34px" src="nttdata.png">
+<img height="32px" src="nttdata.png">
 
 ##### 1ºDAW
 
@@ -97,7 +97,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
 
-Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Accenture deberán estar presentes a las 10:15h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
+Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 12:00h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
 
 ## :open_file_folder: Contenido de la presentación
 
