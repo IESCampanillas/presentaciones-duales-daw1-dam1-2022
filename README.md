@@ -44,8 +44,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="30px" src="mayoral.svg">
 
-* 10:15h [De Abrisqueta Rangel, Ander](https://view.genial.ly/60a14430ac2e320d1b96d913/presentation-dual-mayoral)
-* 10:25h [Reyes Podadera, Pablo Jesús](https://view.genial.ly/60a14430ac2e320d1b96d913/presentation-dual-mayoral)
+* 10:15h [Rodríguez Barcos, Diego]()
+
+<hr>
+
+<img height="30px" src="mayoral.svg">
+
+* 10:15h [Rodríguez Barcos, Diego]()
 
 <hr>
 
@@ -53,13 +58,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 * 10:35h [García Gómez, Sergio](https://github.com/SergioGarciaGomez/Presentacion_Dekra)
 * 10:45h [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon/Presentacion_Dekra)
-
-<hr>
-
-<img height="32px" src="rocketfy.svg">
-
-* 10:55h [Salmerón Robles, Gonzalo José](https://github.com/FESEVA/presentacion_rocketfy/blob/main/README.md)
-* 11:05h [Sevilla Valderrama, Fernando Iván](https://github.com/FESEVA/presentacion_rocketfy/blob/main/README.md)
 
 <hr>
 
