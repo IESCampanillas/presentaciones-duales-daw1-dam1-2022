@@ -1,7 +1,6 @@
-# Presentaciones duales de 1º DAW y 1º DAM del curso 2020 / 2021
+# Presentaciones duales de 1º DAW y 1º DAM del curso 2021 / 2022
 
-
-Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2020 - 2021.
+Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2021 - 2022.
 
 ## Índice
 
