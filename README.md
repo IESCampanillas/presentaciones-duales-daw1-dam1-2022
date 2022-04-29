@@ -20,22 +20,23 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:15h [Buendía López, Jairo](https://github.com/jairobuendia/PresentacionDUAL-Accenture)
-* 10:25h [Gutiérrez Ramírez, Jesús María](https://github.com/Jesus-GR/ExposicionDual)
-* 10:35h [López Pérez, María de la Cruz](https://github.com/mcruzlp/Presentaci_n_FPDual_Accenture.git)
+* 10:15h [Castillo Muñoz, María Natalia]()
+* 10:25h [González Pons, Verónica]()
 ##### 1ºDAW
-* 10:45h [Mancera Taboada, Juan Pedro](https://github.com/juan2pedro/Presentacion-Dual-1)
+* 10:35h [Mostazo Gámez, Alejandro]()
 
 <hr>
 
 <img height="28px" src="viewnext.png">
 
+##### 1ºDAM
+* 10:45h [Morales García, Sergio]()
+* 10:55h [Domínguez Gomez, Sergio]()
+
 ##### 1ºDAW
-* 10:55h [Aranda Jiménez, Francisco Javier](https://github.com/PacoAranda/Presentacion-dual)
-* 11:05h [Morón Jurado, José Manuel](https://github.com/JMMJ0/Presentaci-nn-DUAL)
-* 11:45h [Olalla Pérez, Jesús María](https://github.com/Jeolpe/PRESENTACION-DUAL.git)
-* 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros/Presentacion-Dual/blob/main/README.md)
-* [Presentación conjunta viewnext](https://view.genial.ly/60aa740a62e5860d87aec890/presentation-presentacion-tecnologia-digital)
+* 11:05h [Bautista Somosierra, Francisco Alberto]()
+* 11:15h [Sánchez González, Hugo]()
+* 11:25h [Vargas García, Juan Antonio]()
 
 <hr>
 
