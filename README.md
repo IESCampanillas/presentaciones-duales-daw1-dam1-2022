@@ -48,12 +48,18 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="30px" src="mayoral.svg">
+<img height="30px" src="opplus.png">
 
-* 10:15h [Rodríguez Barcos, Diego]()
+* 10:15h [Muñoz Valenzuela, Miguel Ángel]()
+* 10:15h [Sánchez Rojas, Pablo]()
 
 <hr>
 
+<img height="32px" src="properly.png">
+
+* 11:45h [Parra Toval, Alberto]()
+
+<hr>
 <img height="30px" src="dekra.svg">
 
 * 10:35h [García Gómez, Sergio](https://github.com/SergioGarciaGomez/Presentacion_Dekra)
@@ -61,11 +67,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="32px" src="properly.png">
 
-* 11:45h [Andrés Domínguez, Javier](https://view.genial.ly/60c5db1885640d0dfac35fca/presentation-presentacion-asignatura)
-
-<hr>
 
 <img height="50px" src="topdigital.png">
 
