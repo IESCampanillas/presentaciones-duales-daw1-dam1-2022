@@ -14,7 +14,7 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### :calendar: Lunes 24 de mayo de 2021
+### :calendar: Martes 24 de mayo de 2021
 
 <img height="36px" src="accenture.svg">
 
@@ -66,13 +66,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10:45h [Cueto Jiménez, Alejandro]()
 * 10:45h [Benítez Ruiz, José Antonio]()
 * 10:45h [Moreno González, Alberto]()
-<hr>
 
+<hr>
 
 
 <img height="36px" src="nttdata.png">
 
-* 11:55h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
+* 11:55h [Aguilera García, Alejandro]()
+* 11:55h [González Calderón, Narciso]()
+* 11:55h [Hernández Mangas, Ernesto]()
+* 11:55h [Urbano Ruz, Alfonso]()
 
 <hr>
 
