@@ -19,49 +19,59 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="28px" src="viewnext.png">
 
 ##### 1ºDAM
-* 10:45h [Morales García, Sergio]()
-* 10:55h [Domínguez Gomez, Sergio]()
+
+* 12:00h [Morales García, Sergio]()
+* 12:10h [Domínguez Gomez, Sergio]()
 
 ##### 1ºDAW
-* 11:05h [Bautista Somosierra, Francisco Alberto]()
-* 11:15h [Sánchez González, Hugo]()
-* 11:25h [Vargas García, Juan Antonio]()
 
-<hr>
+* 12:20h [Bautista Somosierra, Francisco Alberto]()
+* 12:30h [Sánchez González, Hugo]()
+* 12:40h [Vargas García, Juan Antonio]()
+
+### :calendar: Viernes 27 de mayo de 2022
 
 <img height="36px" src="accenture.svg">
 
 ##### 1ºDAM
 
-* 10:15h [Castillo Muñoz, María Natalia]()
-* 10:25h [González Pons, Verónica]()
+* 09:30h [Castillo Muñoz, María Natalia]()
+* 09:40h [González Pons, Verónica]()
 
 ##### 1ºDAW
-* 10:35h [Mostazo Gámez, Alejandro]()
+
+* 09:50h [Mostazo Gámez, Alejandro]()
 
 <hr>
 
-### :calendar: Martes 25 de mayo de 2021 - 1ºDAM
-
 <img height="30px" src="mayoral.svg">
 
-* 10:15h [Rodríguez Barcos, Diego]()
+##### 1ºDAM
+
+* 10:00h [Rodríguez Barcos, Diego]()
 
 <hr>
 
 <img height="42px" src="opplus.png">
 
-* 10:15h [Muñoz Valenzuela, Miguel Ángel]()
-* 10:15h [Sánchez Rojas, Pablo]()
+##### 1ºDAW
+
+* 10:10h [Muñoz Valenzuela, Miguel Ángel]()
+* 10:20h [Sánchez Rojas, Pablo]()
 
 <hr>
 
 <img height="32px" src="properly.png">
 
+##### 1ºDAM
+
 * 11:45h [Parra Toval, Alberto]()
 
 <hr>
+
 <img height="30px" src="dekra.svg">
+
+##### 1ºDAM
 
 * 10:35h [Antúnez Pérez, David]()
 * 10:45h [Cueto Jiménez, Alejandro]()
