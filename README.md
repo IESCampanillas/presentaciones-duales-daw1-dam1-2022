@@ -62,14 +62,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <hr>
 <img height="30px" src="dekra.svg">
 
-* 10:35h [García Gómez, Sergio](https://github.com/SergioGarciaGomez/Presentacion_Dekra)
-* 10:45h [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon/Presentacion_Dekra)
-
+* 10:35h [Antúnez Pérez, David]()
+* 10:45h [Cueto Jiménez, Alejandro]()
+* 10:45h [Benítez Ruiz, José Antonio]()
+* 10:45h [Moreno González, Alberto]()
 <hr>
 
 
 
-<img height="50px" src="topdigital.png">
+<img height="50px" src="nttdata.png">
 
 * 11:55h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
 
