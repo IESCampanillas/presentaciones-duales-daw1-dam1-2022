@@ -120,7 +120,7 @@ Cualquier material utilizado en la presentación debe estar disponible desde el 
 
 ## :school: Lugar de la presentación
 
-Las presentaciones tendrán lugar en el **Aula Ateca** sita en C/ Frederick Terman,3. 29590, PTA.
+Las presentaciones SON PRESENCIALES y tendrán lugar en el **Aula Ateca** sita en C/ Frederick Terman,3. 29590, PTA.
 
 <hr>
 
