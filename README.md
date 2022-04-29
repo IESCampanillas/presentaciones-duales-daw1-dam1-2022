@@ -14,18 +14,7 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### :calendar: Martes 24 de mayo de 2021
-
-<img height="36px" src="accenture.svg">
-
-##### 1ºDAM
-
-* 10:15h [Castillo Muñoz, María Natalia]()
-* 10:25h [González Pons, Verónica]()
-##### 1ºDAW
-* 10:35h [Mostazo Gámez, Alejandro]()
-
-<hr>
+### :calendar: Jueves 26 de mayo de 2022
 
 <img height="28px" src="viewnext.png">
 
@@ -40,6 +29,18 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
+<img height="36px" src="accenture.svg">
+
+##### 1ºDAM
+
+* 10:15h [Castillo Muñoz, María Natalia]()
+* 10:25h [González Pons, Verónica]()
+
+##### 1ºDAW
+* 10:35h [Mostazo Gámez, Alejandro]()
+
+<hr>
+
 ### :calendar: Martes 25 de mayo de 2021 - 1ºDAM
 
 <img height="30px" src="mayoral.svg">
@@ -48,7 +49,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="40px" src="opplus.png">
+<img height="42px" src="opplus.png">
 
 * 10:15h [Muñoz Valenzuela, Miguel Ángel]()
 * 10:15h [Sánchez Rojas, Pablo]()
@@ -70,7 +71,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <hr>
 
 
-<img height="36px" src="nttdata.png">
+<img height="34px" src="nttdata.png">
 
 * 11:55h [Aguilera García, Alejandro]()
 * 11:55h [González Calderón, Narciso]()
