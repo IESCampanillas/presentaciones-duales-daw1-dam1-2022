@@ -70,21 +70,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 
 
-<img height="40px" src="nttdata.png">
+<img height="36px" src="nttdata.png">
 
 * 11:55h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
-
-<hr>
-
-<img height="30px" src="vicox.png">
-
-* 12:05h [Estrada Cobo, José Manuel](https://github.com/JoseEstradaC/PresentacionDUAL-Vicox)
-
-<hr>
-
-<img height="42px" src="securekids.jpg">
-
-* 12:15h [Millán Rebollo, Noel](https://github.com/NoelMillan/Presentacion-FPDUAL-SecureKids.git)
 
 <hr>
 
