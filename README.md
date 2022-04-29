@@ -82,7 +82,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="32px" src="nttdata.png">
+<img height="28px" src="nttdata.png">
 
 ##### 1ºDAW
 
