@@ -48,7 +48,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="30px" src="opplus.png">
+<img height="40px" src="opplus.png">
 
 * 10:15h [Muñoz Valenzuela, Miguel Ángel]()
 * 10:15h [Sánchez Rojas, Pablo]()
@@ -70,7 +70,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 
 
-<img height="50px" src="nttdata.png">
+<img height="40px" src="nttdata.png">
 
 * 11:55h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
 
