@@ -25,7 +25,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAW
 
-* 12:20h [Bautista Somosierra, Francisco Alberto]()
+* 12:20h [Bautista Somosierra, Francisco Alberto](https://github.com/FranciscoBautistaSomo/dualViewNextFranciscoBautista)
 * 12:30h [Sánchez González, Hugo](https://github.com/hugosanchezg/presentacionDual)
 * 12:40h [Vargas García, Juan Antonio]()
 
