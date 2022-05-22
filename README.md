@@ -67,7 +67,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:30h [Parra Toval, Alberto]()
+* 10:30h [Parra Toval, Alberto](https://github.com/AlbertoParraToval/Presentacion_Properly)
 
 <hr>
 
