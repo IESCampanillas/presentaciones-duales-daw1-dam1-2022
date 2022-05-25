@@ -21,7 +21,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ##### 1ºDAM
 
 * 12:00h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/dual_ViewNext)
-* 12:10h [Domínguez Gomez, Sergio]()
+* 12:10h [Domínguez Gomez, Sergio](https://github.com/SergioDominguez15/Presentacion-Dual.git)
 
 ##### 1ºDAW
 
