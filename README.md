@@ -75,7 +75,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:40h [Antúnez Pérez, David]()
+* 10:40h [Antúnez Pérez, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd)
 * 10:50h [Cueto Jiménez, Alejandro]()
 * 11:00h [Benítez Ruiz, José Antonio](https://github.com/JoseAntonioBenitez/presentacion-dual)
 * 11:10h [Moreno González, Alberto](https://github.com/albertomorenogonzalez/presentacion-dual)
