@@ -50,7 +50,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:00h [Rodríguez Barcos, Diego]()
+* 10:00h [Rodríguez Barcos, Diego](https://github.com/diegorodrii/Presentacion_DUAL_1-DAM_Mayoral)
 
 <hr>
 
