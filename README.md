@@ -38,7 +38,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ##### 1ºDAM
 
 * 09:30h [Castillo Muñoz, María Natalia](https://github.com/mnataliacm/FpDual2022_1DAM)
-* 09:40h [González Pons, Verónica](https://github.com/mnataliacm/FpDual2022_1DAM/blob/main/Presentacion_DUAL2022.pdf)
+* 09:40h [González Pons, Verónica](https://github.com/Veronicagnzpns/PresentacionFpDual2022)
 
 ##### 1ºDAW
 
